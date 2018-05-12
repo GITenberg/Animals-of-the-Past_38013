@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39195'
     url: http://www.gutenberg.org/2009/agents/39195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38013#Animals-of-the-Past
 gutenberg_bookshelf:
 - Animals-Wild
 - Animal
