@@ -1,0 +1,38 @@
+_repo: Animals-of-the-Past_38013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucas, Frederic A. (Frederic Augustus)
+    aliases:
+    - Lucas, F. A. (Frederic Augustus)
+    - Lucas, Frederic Augustus
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '39195'
+    url: http://www.gutenberg.org/2009/agents/39195
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild
+- Animal
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38013'
+  lccn: 01026906
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology'
+- !lcc 'QE'
+tableOfContents: Introductory and explanatory -- Fossils, and how they are formed
+  -- The earliest known vertebrates -- Impressions of the past -- Rulers of the ancient
+  seas -- Bird of old -- The dinosaurs -- Reading the riddles of the rocks -- Feathered
+  giants -- The ancestry of the horse -- The mammoth -- The mastodon -- Why do animals
+  become extinct?
+title: Animals of the Past
+url: http://www.gutenberg.org/ebooks/38013
